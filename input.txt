@@ -1,0 +1,10 @@
+This is a four unit CS course. As such, you should expect to spend 3 hours per week in lecture, 3 hours per week in lab, and 6 to 10 hours
+per week doing individual study (readings, homeworks, programming, lab
+preparation, etc) -- no exaggerating here! Please don't underestimate
+the time you will need to spend on this course. These are real time
+amounts spent by successful past students. Computer Science and
+Engineering are challenging disciplines requiring extensive time to
+master -- it's worth it in the end (great jobs, great pay, respect,
+etc.), but those things don't come for free. So practice, practice,
+practice! Work hard in school, then reap the rewards of a great
+career.
