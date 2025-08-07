@@ -1,3 +1,9 @@
+//Name: Darrell Geraldo Santoso
+//NIM: 2802479546
+
+//Name: Hilal Ihsan Ramadhan
+//NIM: 2802506761
+
 #include <stdio.h> // standard input/output library
 #include <string.h> // string manipulation functions
 
