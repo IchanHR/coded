@@ -123,7 +123,7 @@ for (int i = 0; i < n; ) {
     printf("Input data ke-%d: ", i+1);
         scanf("%d", &num);
     if (num < 1 || num > 100) { //checking if the input is between 1 and 100
-        printf("Angka harus antara 1–100\n");
+        printf("Angka harus antara 1 - 100\n");
         continue;
     }
     if (isDuplicate(data, i, num)) { //calling isDuplicate function to check if the number is a duplicate
